@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiz Eduardo</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
+(img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-1.gif")
 
 - 🌱 I’m currently learning **Machine Learning**
 
