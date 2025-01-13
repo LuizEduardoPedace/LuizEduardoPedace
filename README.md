@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **pedaceluiz@usp.br**
+- 📫 How to reach me **pedaceluiz@alumni.usp.br**
 
 - ⚡ Fun fact **I think I am curious**
 
